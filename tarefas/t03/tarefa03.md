@@ -4,6 +4,10 @@ O ODBC(Open Database Connectivity) nada mais é que um protocolo onde é usado p
 # resumo ORM
 É uma técnica para aproximar o paradigma de e aplicações orientadas a objetos ao paradigma do banco de dados relacional. É utilizado uma biblioteca ou um framework para ajuda no mapeamento. Um dos padrões que posso dar como exemplo é o active record, nele a classe que representa a tabela conhece os recursos necessários para realizar as transações no banco de dados, geralmente ela herda uma classe com todos esses comportamentos. Escolhi a linguagem python. O ORM do python é fornecido com construções especiais de abstração que podem ser usadas para criar consultas complexas ao banco de dados. Em outras palavras, no lugar de realizar uma ação direta no banco de dados com código SQL por exemplo, utilizamos o ORM como ponte de comunicação entre o banco e a aplicação. Foi utilizado o framework SqlAlchemy(python).
 
+# Aqui esta o link para o codigo onde contem a questao 5
+[QUESTAO 5](https://github.com/gabrielgoncalo/bancodedados2/blob/main/tarefas/t03/connectionToPythonODBC/main.py)
 
+# Aqui esta o link para o codigo onde contem a questao 6
+[QUESTAO 6](https://github.com/gabrielgoncalo/bancodedados2/tree/main/tarefas/t03/connectionToPythonORM)
 
 
